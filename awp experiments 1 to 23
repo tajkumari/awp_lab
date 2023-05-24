@@ -6,7 +6,7 @@
 </head>
 <body>
 <div id="resume">
-<h1>KARANAM taj kumari</h1>
+<h1> kanala taj kumari</h1>
 <h5>THATHICHATLAPALEM VIZAG</h2>
 <h5>VIZAG, PIN:530020.</h2>
 <h5>PHONE NUMBER:9391972679</h3>
@@ -145,26 +145,6 @@ CONTACT US ON:
 </html>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 3. Write an HTML code to create a Registration Form. On submitting the form, the user should be asked to login with this new credentials.
 <!DOCTYPE html>
 <html lang="en">
@@ -268,29 +248,6 @@ CONTACT US ON:
 </body>
 </div>
 </html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 4. Write an HTML code to create your Institute website, Department Website and Tutorial website for specific subject.
